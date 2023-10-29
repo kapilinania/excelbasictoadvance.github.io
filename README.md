@@ -18,7 +18,7 @@ DataSet :
 
 
 # Download this project to your computer.
-Open the "your-project.xlsx" file.
+Open the zip file.
 If there are any pop-ups or special settings, follow the instructions.
 How to Use It:
 
